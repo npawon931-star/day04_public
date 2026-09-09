@@ -8,6 +8,7 @@
 # github 실험 중
 # 너무 어려워 ㅠㅠ
 # day 04
+# day 04 최종
 
 import streamlit as st
 import pandas as pd
