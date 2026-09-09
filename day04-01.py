@@ -31,9 +31,9 @@ st.markdown("""
 
 # CSV 파일 경로 설정 (절대경로 및 상대경로 지원)
 csv_paths = [
-    r"C:\Users\user\AX2_LN\day04\raw_trade_data.csv",
-    r"../day04/raw_trade_data.csv",
-    r"day04/raw_trade_data.csv"
+    r"C:\Users\user\AX2_LN\d\day04\raw_trade_data.csv",
+    r"../d/day04/raw_trade_data.csv",
+    r"d/day04/raw_trade_data.csv"
 ]
 
 csv_path = None
